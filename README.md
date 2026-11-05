@@ -1,6 +1,8 @@
 # Capsule.css
 
-A small CSS framework with responsive layouts, spacing helpers, and basic component styles. Use it as a starting point for websites and prototypes.
+Capsule.css supplies a small layout and styling foundation for a website or prototype. Its responsive layout classes, spacing helpers, and basic component styles let you compose pages without writing every layout rule from scratch.
+
+It is useful for projects that need a CSS starting point without adopting a JavaScript UI framework. Include the stylesheet, apply the layout classes, and use the demo to explore combinations. Readable and minified distribution files are included for inspection and direct use.
 
 ## Get started
 
